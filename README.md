@@ -1,10 +1,10 @@
-# HDB Resale Price Predictor — L06 (Better & Trustworthy Models)
+# HDB Resale Price Predictor — C3.2 (Better & Trustworthy Models)
 
 A teaching project that upgrades a simple 3-feature HDB price model into a more
 accurate, honestly-evaluated one — and deploys it as a Streamlit web app.
 
 Built as a 2-hour coaching add-on for **Module 3 · Machine Learning & GenAI**,
-continuing from the L01–L05 predictor.
+continuing from the C3.1 predictor.
 
 ## 🚀 Live demo / run it
 
